@@ -1,0 +1,3 @@
+﻿  HW04.11.cpp
+C:\Users\Rog\source\repos\HW04.11\HW04.11.cpp(16,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  HW04.11.vcxproj -> C:\Users\Rog\source\repos\HW04.11\x64\Debug\HW04.11.exe
